@@ -1,0 +1,10 @@
+{
+  "needed_mcp_servers": [
+    "github",
+    "notion"
+  ],
+  "needed_local_tools": [
+    "claim_done",
+    "python_execute"
+  ]
+}
